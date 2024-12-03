@@ -1,6 +1,6 @@
 readme.txt
 
-Meno: Michal Přibil
+Meno: :)
 Projekt: Planet Simulator
 
 Simulacia slnecnej sustavy, kde sa pripadne daju pridavat planety a pozorovat orbit planet. V projekte su vsetky planety
